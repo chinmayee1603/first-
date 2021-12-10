@@ -1,0 +1,29 @@
+public class Main{
+    public static void main (String[]args) {
+        //System.out.println("hello world");
+        byte height = 5;
+        short age = 18;
+        int num = 1247;
+        long length= 268498983598L;
+        float age1= 4.5f;
+        double age2= 345.9579558d;
+        char crush= 'p';
+        
+        boolean a = true;
+        String str = "chinmayee";
+        System.out.println(height);
+        System.out.println(age);
+        System.out.println(num);
+        System.out.println(length);
+        System.out.println(age1);
+        System.out.println(age2);
+        System.out.println(crush);
+        System.out.println(a);
+        System.out.println(str);
+        
+        
+    };
+}
+
+
+
